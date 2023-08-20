@@ -1,0 +1,139 @@
+.background{
+    background: url(./images/header-bg.jpg)center/cover;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+}
+.start{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2rem;
+
+}
+.nav-link{
+   color: white;
+   letter-spacing: 0.1rem;
+}
+.nav-link:hover{
+    color: #f2ba09;
+ }
+.navbar{
+    background-color: #212529;
+}
+.masthead-subheading{
+    color: white;
+    margin-top: 16rem;
+    display: inline-block;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ruwudu', serif;
+    font-size: 2.5rem;
+    font-style: italic;
+    
+}
+.masthead-heading{
+    color: white;
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 5rem;
+    
+}
+.text1{
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+}
+.button1{
+    width: 16rem;
+    margin-top: 2rem;
+}
+.section-heading{
+    margin-top: 5rem;
+    letter-spacing: 0.1rem;
+}
+.section-subheading{
+    font-size: 1rem;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ruwudu', serif;
+    font-style: italic;
+}
+.row{
+    margin-top: 3rem;
+}
+.protofolio{
+    margin-top: 5rem;
+    display: inline-block;
+    letter-spacing: 0.2rem;
+    font-size: 2.5rem;
+}
+.portfolio-caption{
+    text-align: center;
+    background-color: white;
+}
+.portfolio-caption-subheading{
+    margin-bottom: 1rem;
+    display: inline-block;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Domine', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Vithkuqi', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Ruwudu', serif;
+    font-style: italic;
+}
+.img-fluid:hover{
+    opacity: 0.8;
+}
+.timeline{
+    margin-top: 10rem;
+}
+.timeline-heading{
+    margin-top: 1rem;
+}
+.line1{
+    border-bottom:1.5px solid black;
+    display: inline-block;
+    margin-top: 5rem;
+   margin-left: -1rem;
+}
+.im{
+    margin-left: 4rem;
+}
+.line2{
+    border-bottom:1.5px solid black;
+    margin-top: -5rem;
+   margin-left: -1rem;
+}
+.imm{
+    margin-left: 3rem;
+}
+.background2{
+    background:linear-gradient(to right,rgba(33, 33, 37, 0.9),rgb(33, 33, 37, 0.1)), url(./images/Screenshot\ 2023-08-19\ 205935.png)center/cover;
+    width: 100vw;
+    height: 98vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    margin-top: 2rem;
+
+}
+.logos{
+    width: 10rem;
+}
+.head{
+    letter-spacing: 0.1rem;
+}
+.headd{
+    margin-bottom: 9rem;
+}
